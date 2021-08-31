@@ -1,2 +1,2 @@
-# Camera-Control
-A Livecode temproary project to refactor Martins camera control work.
+# vlw)CameraControl
+A Livecode project to refactor Martins camera control code into an independent opensource module.
