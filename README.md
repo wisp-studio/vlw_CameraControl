@@ -1,2 +1,2 @@
 # Camera-Control
-A Livecode project to create a reusable camera control
+A Livecode temproary project to refactor Martins camera control work.
